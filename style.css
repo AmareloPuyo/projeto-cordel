@@ -66,10 +66,10 @@ article p {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    border: 1px solid black;
     background-attachment: fixed;
     padding: 45px 0px;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.753);
+    box-shadow: inset 0px 0px 7px 3px rgba(0, 0, 0, 0.651);
 }
 
 #p01 {
